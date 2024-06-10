@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.righta{
+
+    float: right;
+}
+main{
+background-image: url(./images/mainbackground.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#article{
+    
+    margin-left: 170px;
+}
+.lefta{
+    float: left;
+}
+
+.nava,.title-a,.dist-a,.fig-a{
+   text-decoration: none; 
+   font-size: 25px;
+   margin-right: 10px;
+   color: white;
+}
+nav{
+    float: right;
+    margin-top: -50px;
+}
+.nava:hover{
+    color:#ff1a75;
+}
+.main-title{
+    font-size: 75px;
+    color: white;
+}
+.sec-title{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.title-a{
+    padding: 10px 20px;
+    background-color:  #4CAF50;
+    text-align: center;
+    display: inline-block;
+    margin-top: 25px;
+}
+.title-a:hover{
+    background-color:#006600;
+
+}
+.dist-a,.fig-a{
+    padding: 10px 20px;
+    background-color:  #4CAF50;
+    text-align: center;
+    display: inline-block;
+    margin-top: 25px;
+
+}
+.dist-a:hover{
+    background-color:#006600;
+}
+.fig-a:hover{
+    background-color:#006600;
+}
+.form-input{
+    width: 100%;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-main{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.form-submit{
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+
+}
+.form-submit:hover{
+    background-color:#006600;
+}
+.margin{
+   margin: 25px; 
+   padding: 25px;
+}
+.heading{
+    text-decoration: underline;
+    font-size: 40px;
+    
+}
+.dist-sub{
+    font-size: 25px;
+}
+.fonts{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+  #link-font{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font: weight 200px;;
+    font-style: normal;
+  }
